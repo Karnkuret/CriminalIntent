@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_9e9d7d3c681755ae4ef011679192ded60335d195\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0c6af9b196a9cc74583392acb46a917df1a5ae68">
+        <dex dex="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_66d87cc2b99f03c1bb7e06153599c10135cd19c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ricardo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_43855daa21c299f72e5eda8b1129dd155d629b1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7b159b8f4f4ab9295dee03c033cdd0a555b8b832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f8e9afb8d4b0461bf2683cdd93461635a5cca59">
+        <dex dex="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8e9b518c51fe446c94674e99bc24b37bc0b124e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_8dac7b3dd975849663aff9b3857b000b1079b2fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.0.1_f10d208a0c3374a819a653dbc48121f404eb0ace\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_958374bcf46db662c9bf8e16e70a8e1e68de88c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Ricardo\AndroidStudioProjects\CriminalIntent\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_3c60703c375782552a83b3af40f455911688b132\classes.dex" />
+    </item>
+
+</items>
